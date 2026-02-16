@@ -27,7 +27,7 @@
 ---
 
 ### 📫 Connect with me:
-[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/YourUsername)
+[![Freelancer]([https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white](https://www.freelancer.com/u/Ammarrrrrrrrrr?sb=t))](https://www.freelancer.com/u/YourUsername)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-saied)
 
 ---
