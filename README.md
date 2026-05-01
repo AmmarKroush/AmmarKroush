@@ -1,164 +1,117 @@
-<div align="center">
+# عمار كروش — Ammar Kroush
 
-# عمار كروش — Ammar Karoush
+### Data Analyst & Automation Engineer
 
-### AI & Backend Solutions Engineer
+*Turning complex data challenges into actionable insights and automated systems*
 
-*Turning complex data challenges into scalable, intelligent systems*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://notion.so)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammarkroush)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ammarkroushh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmmarKroush)
 
 ---
 
 ## 👤 About Me
 
-I'm an **AI & Backend Solutions Engineer** specializing in the full lifecycle of intelligent data systems — from distributed data acquisition at scale, to AI-powered processing pipelines that deliver decisions in under 3 seconds.
+I'm a **Data Analyst & Automation Engineer** with a strong background in Computer Science and AI.
+Specialized in **Machine Learning**, **Data Engineering**, **EDA**, and building interactive **Power BI Dashboards** that drive strategic decision-making.
 
-My work sits at the intersection of **backend engineering** and **applied AI**: I design systems that don't just collect data — they understand it, structure it, and act on it. Whether it's building a scraping engine across 40 dynamic sources or wiring a Llama 3 intent-recognition backend into a production SaaS, I focus on one outcome: **business value through engineering precision**.
+Expert in **Python**, **XGBoost**, **SQL**, and **Google Apps Script** with a proven track record of delivering end-to-end ML pipelines and 15+ advanced automation systems.
 
-```
-Core Principle: Every system I build is designed for three non-negotiables —
-                Scalability · Latency < 3s · Security
-```
-
-**Current Focus Areas:**
-- 🔩 Building **FastAPI** microservices with full async architecture
-- 🤖 Designing **RAG pipelines** and LLM integration layers (Llama 3, OpenAI, Groq)
-- 🕸️ Engineering **distributed data acquisition** systems resilient to anti-scraping measures
-- 📐 Bridging **unstructured data** into clean, AI-ready structured formats
-
-**Background:**
-- 🎓 B.Sc. in Computer Science — Menoufia National University *(in progress)*
-- 🏅 IBM Data Science Specialist — **DEPI Initiative**
+- 🎓 B.Sc. Computer Science & AI — Menoufia National University *(Expected 2027)*
+- 🏅 IBM Data Science Specialist — **DEPI Initiative (2025)**
+- 📍 Menoufia, Egypt — Available for **Remote Work**
 
 ---
 
-## 🧰 Technical Toolbox
+## 🧰 Technical Skills
 
-### Languages
+### Programming & Data
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-| Language | Level | Primary Use |
-|---|---|---|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | Expert | AI pipelines, backend systems, data engineering |
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) **SQL** | Proficient | Data modeling, complex queries, analytics |
+### Machine Learning & Data Science
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
----
+### BI & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![IBM Cognos](https://img.shields.io/badge/IBM_Cognos-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![IBM Watson](https://img.shields.io/badge/IBM_Watson_Studio-052FAD?style=flat-square&logo=ibm&logoColor=white)
 
-### AI & Backend Engineering
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Llama3](https://img.shields.io/badge/Llama_3-7C3AED?style=for-the-badge&logo=meta&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white)
-
-| Technology | Capability |
-|---|---|
-| **FastAPI** | Async REST APIs, middleware, dependency injection, production deployments |
-| **Llama 3** | Local inference, intent recognition, fine-tuning pipelines |
-| **RAG Systems** | Vector stores, embedding pipelines, retrieval-augmented generation |
-| **OpenAI / Groq APIs** | LLM orchestration, prompt engineering, multi-model routing |
-
----
-
-### Data Engineering & Acquisition
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FF6B35?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-| Technology | Capability |
-|---|---|
-| **Playwright** | Dynamic JS rendering, headless automation, anti-detection patterns |
-| **BeautifulSoup** | HTML parsing, schema extraction, data normalization |
-| **Pandas** | Data transformation, cleaning pipelines, analytical workflows |
-| **PostgreSQL** | Relational modeling, indexing strategies, async queries (asyncpg) |
-
----
-
-### Infrastructure & Tooling
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### Automation & APIs
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FF6B35?style=flat-square&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 01 — Distributed Data Intelligence Engine
-> *Unified acquisition layer across 40 heterogeneous dynamic sources*
+### 🌊 Early Flood Warning System — DEPI Capstone (2025)
+> *ML-powered flood risk prediction using 120 years of meteorological data*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FF6B35?style=flat-square)
-![Async](https://img.shields.io/badge/Async-Architecture-6D28D9?style=flat-square)
+**The Challenge:** Predict flood risk levels (Safe / Warning / Danger) using historical and projected climate data from 1971 to 2095 across 12 meteorological features.
 
-**The Challenge:** 40 dynamic sources — each with distinct HTML structures, JavaScript rendering requirements, and active anti-scraping defenses (Captcha, IP blocking, rate limiting).
+**The Engineering:** Full ML pipeline — EDA, feature engineering, correlation analysis, and multi-model comparison. XGBoost selected as the final engine for its superior handling of non-linear weather patterns.
 
-**The Engineering:** A config-driven, modular scraping architecture where each source is defined in an independent YAML file. Adding a new source requires zero core changes. A layered execution model separates acquisition (Playwright), parsing (BS4), and normalization into independent, testable components.
+| Model | Accuracy | Precision | Recall | F1-Score |
+|-------|----------|-----------|--------|----------|
+| **XGBoost (Selected)** | **92.71%** | **91.85%** | **92.71%** | **90.93%** |
+| Random Forest | 92.70% | 91.83% | 92.70% | 91.08% |
+| Logistic Regression | 92.50% | 91.65% | 92.50% | 90.54% |
+| Decision Tree | 87.32% | 87.62% | 87.32% | 87.47% |
 
 **Key Results:**
-- ✅ 40 active sources maintained from a single unified codebase
-- ✅ New source onboarding in **< 30 minutes** (config-only, no code)
-- ✅ Extraction success rate **> 92%** with adaptive retry + exponential backoff
-- ✅ Output: **Clean Structured JSON** — AI-pipeline-ready
+- ✅ 120-year dataset (1971–2095), 12 critical meteorological features
+- ✅ XGBoost: **92.71% accuracy**, F1-Score **90.93%**
+- ✅ Interactive **Power BI dashboard** with Year/Region filtering for disaster mitigation teams
+- ✅ Full EDA + Correlation Heatmap + Seasonal Pattern Analysis
+
+`Python` `XGBoost` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `IBM Watson Studio`
 
 ---
 
-### 02 — JobFlow AI — Async SaaS Intelligence Platform
-> *FastAPI backend with Llama 3 intent recognition and sub-3-second response guarantee*
+### ⚙️ Automated Booking & Workflow Systems
+> *15+ enterprise-grade automation systems built on Google Forms + Apps Script*
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Llama3](https://img.shields.io/badge/Llama_3-7C3AED?style=flat-square&logo=meta&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Async](https://img.shields.io/badge/Fully_Async-009688?style=flat-square)
+- ✅ Serving **500+ users** with real-time scheduling logic
+- ✅ Reduced manual effort by **~70%**
+- ✅ Integrated **WhatsApp Business API** and **Google Calendar** for instant notifications
 
-**The Challenge:** Build an AI-powered task automation platform that handles high concurrent load while maintaining sub-3-second latency — without routing sensitive data through external APIs.
+`Google Apps Script` `WhatsApp Business API` `Google Calendar API` `REST API`
 
-**The Engineering:** Fully async FastAPI backend (zero blocking I/O) paired with locally-deployed Llama 3 for intent classification. Requests are routed dynamically based on recognized intent — no brittle if-else chains. Horizontal scale-out via Uvicorn workers requires no code changes.
+---
 
-**Key Results:**
-- ✅ **P95 latency < 3 seconds** under concurrent load
-- ✅ Intent recognition accuracy **> 89%**
-- ✅ **Zero data leakage** — local LLM inference, no external API dependency
-- ✅ Horizontal scalability with no architectural rewrites
+### 🕷️ Web Scraping & Data Extraction Tools
+> *Custom Python scrapers for structured data extraction at scale*
+
+- ✅ Extracted **10K+ records** from **5+ platforms**
+- ✅ Clean structured output ready for downstream analysis and Power BI reporting
+
+`Python` `BeautifulSoup` `Pandas` `SQL Server`
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Ammar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmmarKroush&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Ammar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarKroush&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🤝 Let's Build Together
+## 🤝 Let's Work Together
 
-> **I work as a technical partner for startups and product teams** — not just a developer who ships code, but an engineer who understands business constraints, designs for scale from day one, and translates vague data problems into production-ready intelligent systems.
->
-> If you're building something that needs to **ingest messy data at scale**, **make AI-powered decisions fast**, or **integrate LLMs into a real product** — let's talk.
+> Available for **Remote Work** · Data Analysis · Automation Engineering · ML Projects
 
-<div align="center">
-
-[![Let's Connect](https://img.shields.io/badge/Open_to_Collaboration-2EAD33?style=for-the-badge&logo=handshake&logoColor=white)](mailto:your@email.com)
-
-*Available for freelance projects · Technical consulting · AI/Backend co-founding roles*
-
-</div>
+[![Let's Connect](https://img.shields.io/badge/Open_to_Opportunities-2EAD33?style=for-the-badge&logo=handshake&logoColor=white)](mailto:ammarkroushh@gmail.com)
 
 ---
 
-<div align="center">
-<sub>Built with precision · Designed for scale · Focused on outcomes</sub>
-</div>
+*Built with precision · Driven by data · Focused on outcomes*
